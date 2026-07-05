@@ -124,7 +124,7 @@
 </p>
 
 <p align="center">
-  <strong>SEEGIN</strong> · <strong>迪迦</strong> · <strong>佚名同学</strong> · <strong>en</strong>
+  <strong>SEEGIN</strong> · <strong>迪迦</strong> · <strong>佚名同学</strong>
 </p>
 
 > 🙏 _感谢每一位愿意花时间整理经验、回答问题的同学，你们的分享是后来者最宝贵的财富。_
