@@ -78,6 +78,7 @@
 - [双非零基础一战上岸国科大软件所（TTao）](./上岸经验分享/双非零基础一战上岸国科大软件所（TTao）.md) — 江西双非零基础起步，四级四次才过，4 月启动，🐙三十讲+1000 题，390+，决定成绩的是执行力和坚持
 - [四非一本一战上岸国科大软件所](./上岸经验分享/四非一本一战上岸国科大软件所.md)— 2.8 绩点，320+ 分专硕，两篇北核+专利+大创，复试靠科研翻盘
 - [四非科班上岸国科大软件所](./上岸经验分享/四非科班上岸国科大软件所.md) — 四非科班，9 月全力开冲，英语 80+ 拉满，六级 620，推荐优质资料源和英语学习方法
+- [九本三无摆子上岸国科大软件所](./上岸经验分享/九本三无摆子上岸国科大软件所.md) — 大工摆烂选手，360+ 调剂学硕，摆子如何上岸软所？
 
 > 📢 **经验分享持续征集中**，欢迎各位上岸同学[投稿](经验分享投稿模板.md)你的备考故事！
 
@@ -115,10 +116,15 @@
   <a href="https://github.com/davepearl">
     <img src="https://github.com/davepearl.png?size=100" width="70" height="70" alt="davepearl" style="border-radius:50%; margin: 0 8px;"/>
   </a>
+
+<a href="https://github.com/feiyu1104">
+    <img src="https://github.com/feiyu1104.png?size=100" width="70" height="70" alt="davepearl" style="border-radius:50%; margin: 0 8px;"/>
+  </a>
+
 </p>
 
 <p align="center">
-  <strong>SEEGIN</strong> · <strong>迪迦</strong> · <strong>佚名同学</strong>
+  <strong>SEEGIN</strong> · <strong>迪迦</strong> · <strong>佚名同学</strong> · <strong>en</strong>
 </p>
 
 > 🙏 _感谢每一位愿意花时间整理经验、回答问题的同学，你们的分享是后来者最宝贵的财富。_
