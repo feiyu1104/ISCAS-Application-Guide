@@ -6,7 +6,7 @@
 >
 > 信工所  iie ：[点此加群](https://qun.qq.com/universal-share/share?ac=1&authKey=M4yxMWHgE9yzD2vk7nGtift%2BhaP2MYfYdv56wWOgMGTD4AfY6ABZdwPC%2FHSdqfRa&busi_data=eyJncm91cENvZGUiOiI4MjI4NDEzMzMiLCJ0b2tlbiI6IkNzSE5pMnl5alNmSmRJeVNKTWhTbkZrVHFqN1dTdTJVdnZUelBBVU9NM0xUMktaTjRFU1RWdUNUU1FJQ294OU4iLCJ1aW4iOiIyNTc3NTM5MjkwIn0%3D&data=y5wvomRqO2jq6LLWp0Sxid8pyT3UmVsWo1rIIckMP9rPga6WW6Csn4mJdLPHb3496bP8Ds0zyGL2h_Jq7JnxNw&svctype=4&tempid=h5_group_info)
 >
-> 计算所  ict：746577276
+> 计算所  ict：[点此加群](https://qun.qq.com/universal-share/share?ac=1&authKey=OzZAS3jeG1KhS/SchOveQuzrFB0THS3ykemropLyrii9Q0tDhWzuEfgBbATcQ14H&busi_data=eyJncm91cENvZGUiOiI3NDY1NzcyNzYiLCJ0b2tlbiI6IkpMSVJUaXhTSGJMOFM4bVluYy81NTdRa3FjZXRWdmFGWHd4eFJxelNqbTVaRnNEUkkvNGtmd0VWcjlnNG1JNHYiLCJ1aW4iOiIxODMyNjEwNjE5In0=&data=DdKFa5GnoEJznLT7tm251AcOibKm8xts-AhBy1DIdJ0DIermCL5yRGTvlBRikO8Ni-Q96X9LqWGTVMezsJtaIg&svctype=4&tempid=h5_group_info)
 
 现在是 2026 年七月，距离 27 考研初试还有不到 5 个月。相较于高校体系的高分需求，国科大体系无疑提供了更具性价比的选择。
 
