@@ -1,6 +1,12 @@
 # 中国科学院软件研究所（ISCAS）考研报考指南
 
 > 🎯 点击链接加入群聊【24-27软件所交流群】：[点此加群](https://qm.qq.com/q/NhrlBL5x2o)
+>
+> 兄弟院校推荐：
+>
+> 信工所  iie ：[点此加群](https://qun.qq.com/universal-share/share?ac=1&authKey=M4yxMWHgE9yzD2vk7nGtift%2BhaP2MYfYdv56wWOgMGTD4AfY6ABZdwPC%2FHSdqfRa&busi_data=eyJncm91cENvZGUiOiI4MjI4NDEzMzMiLCJ0b2tlbiI6IkNzSE5pMnl5alNmSmRJeVNKTWhTbkZrVHFqN1dTdTJVdnZUelBBVU9NM0xUMktaTjRFU1RWdUNUU1FJQ294OU4iLCJ1aW4iOiIyNTc3NTM5MjkwIn0%3D&data=y5wvomRqO2jq6LLWp0Sxid8pyT3UmVsWo1rIIckMP9rPga6WW6Csn4mJdLPHb3496bP8Ds0zyGL2h_Jq7JnxNw&svctype=4&tempid=h5_group_info)
+>
+> 计算所  ict：746577276
 
 现在是 2026 年七月，距离 27 考研初试还有不到 5 个月。相较于高校体系的高分需求，国科大体系无疑提供了更具性价比的选择。
 
