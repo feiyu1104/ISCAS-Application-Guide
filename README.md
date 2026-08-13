@@ -9,6 +9,8 @@
 > 计算所  ict：[点此加群](https://qun.qq.com/universal-share/share?ac=1&authKey=OzZAS3jeG1KhS/SchOveQuzrFB0THS3ykemropLyrii9Q0tDhWzuEfgBbATcQ14H&busi_data=eyJncm91cENvZGUiOiI3NDY1NzcyNzYiLCJ0b2tlbiI6IkpMSVJUaXhTSGJMOFM4bVluYy81NTdRa3FjZXRWdmFGWHd4eFJxelNqbTVaRnNEUkkvNGtmd0VWcjlnNG1JNHYiLCJ1aW4iOiIxODMyNjEwNjE5In0=&data=DdKFa5GnoEJznLT7tm251AcOibKm8xts-AhBy1DIdJ0DIermCL5yRGTvlBRikO8Ni-Q96X9LqWGTVMezsJtaIg&svctype=4&tempid=h5_group_info)
 >
 > 沈计所  sict：[点此加群](https://qm.qq.com/cgi-bin/qm/qr?k=r9u8RmL8tXw4jCF32Pz1tOd83sFteVW1&jump_from=webapi&authKey=Itu6in4pdGnalupvoOhfjHS5fzZsjCw0hgTiBdJh8oSiq1vSH3eiDwAenGR0UsCl)
+>
+> 人工智能学院华大专项  ：[点此加群](https://qm.qq.com/q/dZmGc3XFkI)
 
 > ⚠️ **免责声明**：本指南为历届考生公益维护，非盈利，与中科院软件研究所无任何隶属或关联关系，非官方渠道。内容仅供参考，请以官方发布为准。详见 [免责声明](免责声明.md)。
 
