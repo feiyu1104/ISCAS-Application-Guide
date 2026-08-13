@@ -467,7 +467,9 @@ body {
   width: 2.4rem; height: 2.4rem;
   border-radius: 12px;
   background: var(--isc-accent-soft);
-  font-size: 1.2rem;
+}
+.isc-feature__icon svg {
+  width: 1.25rem; height: 1.25rem;
 }
 .isc-feature b {
   display: block;
@@ -492,6 +494,13 @@ body {
   font-size: 0.87rem;
   line-height: 1.8;
   color: var(--md-typeset-color);
+}
+.isc-tip__icon {
+  display: inline-block;
+  width: 1.05em;
+  height: 1.05em;
+  margin-right: 0.4em;
+  vertical-align: -0.18em;
 }
 
 /* ---------- 核心指南入口 ---------- */
@@ -521,10 +530,16 @@ body {
   display: inline-flex; align-items: center; justify-content: center;
   width: 3rem; height: 3rem;
   border-radius: 14px;
-  font-size: 1.5rem;
   background: var(--isc-accent-soft);
 }
 .isc-entry-card__title { display: block; margin: 0.8rem 0 0.4rem; font-size: 1.2rem; font-weight: 800; color: var(--md-typeset-color); }
+.isc-entry-card__icon svg {
+  width: 1.4rem; height: 1.4rem;
+}
+/* 深色模式下图标提亮，避免与暗卡片对比不足 */
+[data-md-color-scheme="slate"] .isc-entry-card__icon {
+  color: #E9E4D9;
+}
 .isc-entry-card p { margin: 0 0 0.8rem; font-size: 0.86rem; line-height: 1.7; color: var(--md-default-fg-color--light); }
 .isc-entry-card__more { font-size: 0.86rem; font-weight: 700; color: var(--isc-accent); }
 
@@ -599,6 +614,13 @@ body {
   font-size: 1rem;
   font-weight: 700;
   color: var(--md-typeset-color);
+}
+.isc-crown {
+  display: inline-block;
+  width: 0.95em;
+  height: 0.95em;
+  margin-left: 0.28em;
+  vertical-align: -0.12em;
 }
 .isc-exp-card p {
   margin: 0;
@@ -860,6 +882,9 @@ body {
   box-shadow: 0 12px 30px rgba(22, 42, 70, 0.5);
 }
 .isc-pledge-btn:active { transform: scale(0.95); }
+.isc-pledge-btn svg {
+  width: 1.05rem; height: 1.05rem;
+}
 .isc-pledge-hint {
   margin: 0.9rem 0 0;
   font-size: 0.9rem;
