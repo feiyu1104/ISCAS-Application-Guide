@@ -60,6 +60,14 @@ body {
   overflow: hidden;
   background: linear-gradient(180deg, var(--isc-accent-soft), transparent 75%);
 }
+/* 背景插画层：铺满 Hero 框（图片中央米白为文字区，两侧深蓝装饰） */
+.isc-hero__bg {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  background: url("/assets/images/hero-bg.webp") center / cover no-repeat;
+}
 /* 背景光斑（Animate UI 风格） */
 .isc-hero::before,
 .isc-hero::after {
@@ -95,12 +103,13 @@ body {
   background-clip: text;
   color: transparent;
 }
+/* 标语两侧装饰横杠：恢复为最初样式，颜色与渐变文字一致（深蓝） */
 .isc-hero__slogan::before,
 .isc-hero__slogan::after {
   content: "";
   width: 2.6rem;
   height: 1px;
-  background: var(--isc-border);
+  background: #162A46;
   flex: none;
 }
 .isc-hero__title {
@@ -110,7 +119,7 @@ body {
   line-height: 1.22;
   font-weight: 800;
   letter-spacing: -0.02em;
-  color: var(--md-typeset-color) !important;
+  color: #162A46 !important; /* 浅色中央文字区：标题固定深蓝 */
 }
 .isc-grad {
   background: linear-gradient(120deg, var(--isc-grad-a), var(--isc-grad-b));
@@ -118,13 +127,18 @@ body {
   background-clip: text;
   color: transparent;
 }
+/* 浅色中央文字区：标语与标题渐变用深蓝，避免与米白背景同色（用 background-image，避免覆盖 background-clip: text） */
+.isc-hero__slogan,
+.isc-hero .isc-grad {
+  background-image: linear-gradient(120deg, #162A46, #2f4d78);
+}
 .isc-hero__subtitle {
   position: relative;
   margin: 0 auto 1.8rem;
-  max-width: 34rem;
+  max-width: 30rem;
   font-size: 1.05rem;
   line-height: 1.9;
-  color: var(--md-default-fg-color--light);
+  color: rgba(22, 42, 70, 0.8); /* 浅色中央文字区：副标题深蓝 */
 }
 .isc-hero__actions {
   position: relative;
@@ -167,6 +181,20 @@ body {
   border: 1px solid var(--isc-border);
 }
 .md-typeset .isc-btn--soft:hover { background: var(--isc-accent); color: #fff; }
+
+/* Hero 浅色中央区：按钮用深蓝系（实心主按钮 + 深蓝描边次按钮） */
+.md-typeset .isc-hero .isc-btn--primary {
+  background: linear-gradient(120deg, #162A46, #3a63a0);
+  color: #fff;
+  box-shadow: 0 4px 14px rgba(22, 42, 70, 0.3);
+}
+.md-typeset .isc-hero .isc-btn--primary:hover { color: #fff; }
+.md-typeset .isc-hero .isc-btn--ghost {
+  background: transparent;
+  color: #162A46;
+  border-color: rgba(22, 42, 70, 0.4);
+}
+.md-typeset .isc-hero .isc-btn--ghost:hover { border-color: #162A46; color: #162A46; }
 
 /* ============ 数据统计条 ============ */
 .isc-stats {

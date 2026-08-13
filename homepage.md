@@ -3,6 +3,7 @@
 
   <!-- ---------- Hero ---------- -->
   <section class="isc-hero">
+    <div class="isc-hero__bg" aria-hidden="true"></div>
     <p class="isc-hero__slogan">一切献给软件所</p>
     <h1 class="isc-hero__title">中科院软件所 <span class="isc-grad">考研报考指南</span></h1>
     <p class="isc-hero__subtitle">真实报录数据 · 报考全流程 · 复试潜规则<br>一手上岸经验，一站讲清</p>
@@ -410,6 +411,7 @@
     <div class="isc-links">
       <a class="isc-btn isc-btn--soft" href="https://iie.cskaoyan.cn" title="iie.cskaoyan.cn" target="_blank" rel="noopener">中科院信工所报考指南 ↗</a>
       <a class="isc-btn isc-btn--soft" href="https://sict.cskaoyan.cn" title="sict.cskaoyan.cn" target="_blank" rel="noopener">中科院沈计所报考指南 ↗</a>
+      <a class="isc-btn isc-btn--soft" href="https://ucas-bgi.cskaoyan.cn" title="ucas-bgi.cskaoyan.cn" target="_blank" rel="noopener">中科院人工智能学院报考指南 ↗</a>
     </div>
   </section>
 
