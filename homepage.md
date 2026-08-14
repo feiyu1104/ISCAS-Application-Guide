@@ -38,93 +38,93 @@
     <!-- ---------- 位置优势：图片 + Top 10 距离 ---------- -->
     <div class="isc-location">
       <div class="isc-location__head">
-        <h3 id="location">地理位置优越，与互联网大厂为邻</h3>
-        <p class="isc-section__sub">以软件所（海淀区中关村南四街 4 号）为圆心，互联网大厂北京总部 / 主办公区直线距离 Top 10。字节跳动中航广场总部距软件所仅 <b>1.56 km</b>，搜狐网络大厦 <b>1.60 km</b>，前 9 名均在 9 km 内。<a class="isc-location__more" href="复试准备/北京大厂距中科院软件研究所距离/">查看完整数据 →</a></p>
+        <h3 id="location">地理位置优越，与科技大厂为邻</h3>
+        <p class="isc-section__sub">以软件所（海淀区中关村南四街 4 号）为圆心，互联网大厂与科技公司北京总部 / 主办公区直线距离 Top 10。月之暗面（Kimi）京东科技大厦距软件所仅 <b>0.58 km</b>，AMD、谷歌、英伟达、英特尔等聚集融科资讯中心，前 10 名均在 <b>2.3 km</b> 内。<a class="isc-location__more" href="复试准备/北京大厂距中科院软件研究所距离/">查看完整数据 →</a></p>
       </div>
       <div class="isc-location__card">
         <figure class="isc-location__fig">
-          <img src="assets/images/fig_location_advantage.png" alt="北京互联网大厂距软件所直线距离示意图" loading="lazy">
+          <img src="assets/images/fig_location_advantage.png" alt="北京科技公司距软件所直线距离示意图" loading="lazy">
         </figure>
         <ol class="isc-location__list">
-          <li class="isc-loc isc-loc--top" style="--dist: 15%">
+          <li class="isc-loc isc-loc--top" style="--dist: 26%">
             <span class="isc-loc__rank">1</span>
-            <span class="isc-loc__body"><b>字节跳动</b><small>中航广场总部</small></span>
+            <span class="isc-loc__body"><b>Kimi（月之暗面）</b><small>京东科技大厦</small></span>
+            <span class="isc-loc__meta">
+              <span class="isc-loc__dist">0.58<small>km</small></span>
+              <span class="isc-loc__bar"></span>
+              <span class="isc-loc__walk">步行可达</span>
+            </span>
+          </li>
+          <li class="isc-loc isc-loc--top" style="--dist: 43%">
+            <span class="isc-loc__rank">2</span>
+            <span class="isc-loc__body"><b>AMD</b><small>融科资讯中心 C 座北楼</small></span>
+            <span class="isc-loc__meta">
+              <span class="isc-loc__dist">0.97<small>km</small></span>
+              <span class="isc-loc__bar"></span>
+              <span class="isc-loc__walk">步行可达</span>
+            </span>
+          </li>
+          <li class="isc-loc" style="--dist: 45%">
+            <span class="isc-loc__rank">3</span>
+            <span class="isc-loc__body"><b>谷歌</b><small>融科资讯中心 B 座</small></span>
+            <span class="isc-loc__meta">
+              <span class="isc-loc__dist">1.03<small>km</small></span>
+              <span class="isc-loc__bar"></span>
+            </span>
+          </li>
+          <li class="isc-loc" style="--dist: 45%">
+            <span class="isc-loc__rank">4</span>
+            <span class="isc-loc__body"><b>英伟达</b><small>融科资讯中心</small></span>
+            <span class="isc-loc__meta">
+              <span class="isc-loc__dist">1.03<small>km</small></span>
+              <span class="isc-loc__bar"></span>
+            </span>
+          </li>
+          <li class="isc-loc" style="--dist: 48%">
+            <span class="isc-loc__rank">5</span>
+            <span class="isc-loc__body"><b>英特尔</b><small>英特尔中国研究院</small></span>
+            <span class="isc-loc__meta">
+              <span class="isc-loc__dist">1.10<small>km</small></span>
+              <span class="isc-loc__bar"></span>
+            </span>
+          </li>
+          <li class="isc-loc" style="--dist: 55%">
+            <span class="isc-loc__rank">6</span>
+            <span class="isc-loc__body"><b>寒武纪</b><small>致真大厦 D 座</small></span>
+            <span class="isc-loc__meta">
+              <span class="isc-loc__dist">1.24<small>km</small></span>
+              <span class="isc-loc__bar"></span>
+            </span>
+          </li>
+          <li class="isc-loc" style="--dist: 69%">
+            <span class="isc-loc__rank">7</span>
+            <span class="isc-loc__body"><b>字节跳动</b><small>字节大钟寺工区（seed）</small></span>
             <span class="isc-loc__meta">
               <span class="isc-loc__dist">1.56<small>km</small></span>
               <span class="isc-loc__bar"></span>
-              <span class="isc-loc__walk">步行可达</span>
             </span>
           </li>
-          <li class="isc-loc isc-loc--top" style="--dist: 15%">
-            <span class="isc-loc__rank">2</span>
+          <li class="isc-loc" style="--dist: 70%">
+            <span class="isc-loc__rank">8</span>
+            <span class="isc-loc__body"><b>智谱</b><small>搜狐网络大厦</small></span>
+            <span class="isc-loc__meta">
+              <span class="isc-loc__dist">1.59<small>km</small></span>
+              <span class="isc-loc__bar"></span>
+            </span>
+          </li>
+          <li class="isc-loc" style="--dist: 70%">
+            <span class="isc-loc__rank">9</span>
             <span class="isc-loc__body"><b>搜狐</b><small>搜狐网络大厦</small></span>
             <span class="isc-loc__meta">
               <span class="isc-loc__dist">1.60<small>km</small></span>
-              <span class="isc-loc__bar"></span>
-              <span class="isc-loc__walk">步行可达</span>
-            </span>
-          </li>
-          <li class="isc-loc" style="--dist: 74%">
-            <span class="isc-loc__rank">3</span>
-            <span class="isc-loc__body"><b>小米</b><small>小米移动互联网产业园</small></span>
-            <span class="isc-loc__meta">
-              <span class="isc-loc__dist">7.73<small>km</small></span>
-              <span class="isc-loc__bar"></span>
-            </span>
-          </li>
-          <li class="isc-loc" style="--dist: 77%">
-            <span class="isc-loc__rank">4</span>
-            <span class="isc-loc__body"><b>快手</b><small>快手总部</small></span>
-            <span class="isc-loc__meta">
-              <span class="isc-loc__dist">8.05<small>km</small></span>
-              <span class="isc-loc__bar"></span>
-            </span>
-          </li>
-          <li class="isc-loc" style="--dist: 78%">
-            <span class="isc-loc__rank">5</span>
-            <span class="isc-loc__body"><b>滴滴</b><small>数字山谷园区</small></span>
-            <span class="isc-loc__meta">
-              <span class="isc-loc__dist">8.17<small>km</small></span>
-              <span class="isc-loc__bar"></span>
-            </span>
-          </li>
-          <li class="isc-loc" style="--dist: 81%">
-            <span class="isc-loc__rank">6</span>
-            <span class="isc-loc__body"><b>百度</b><small>百度大厦</small></span>
-            <span class="isc-loc__meta">
-              <span class="isc-loc__dist">8.46<small>km</small></span>
-              <span class="isc-loc__bar"></span>
-            </span>
-          </li>
-          <li class="isc-loc" style="--dist: 82%">
-            <span class="isc-loc__rank">7</span>
-            <span class="isc-loc__body"><b>新浪</b><small>新浪大厦</small></span>
-            <span class="isc-loc__meta">
-              <span class="isc-loc__dist">8.58<small>km</small></span>
-              <span class="isc-loc__bar"></span>
-            </span>
-          </li>
-          <li class="isc-loc" style="--dist: 83%">
-            <span class="isc-loc__rank">8</span>
-            <span class="isc-loc__body"><b>腾讯</b><small>腾讯北京总部大楼</small></span>
-            <span class="isc-loc__meta">
-              <span class="isc-loc__dist">8.63<small>km</small></span>
-              <span class="isc-loc__bar"></span>
-            </span>
-          </li>
-          <li class="isc-loc" style="--dist: 84%">
-            <span class="isc-loc__rank">9</span>
-            <span class="isc-loc__body"><b>网易</b><small>网易大楼</small></span>
-            <span class="isc-loc__meta">
-              <span class="isc-loc__dist">8.73<small>km</small></span>
               <span class="isc-loc__bar"></span>
             </span>
           </li>
           <li class="isc-loc" style="--dist: 100%">
             <span class="isc-loc__rank">10</span>
-            <span class="isc-loc__body"><b>爱奇艺</b><small>爱奇艺青春中心</small></span>
+            <span class="isc-loc__body"><b>微软</b><small>微软亚太研发集团大厦</small></span>
             <span class="isc-loc__meta">
-              <span class="isc-loc__dist">10.46<small>km</small></span>
+              <span class="isc-loc__dist">2.27<small>km</small></span>
               <span class="isc-loc__bar"></span>
             </span>
           </li>
