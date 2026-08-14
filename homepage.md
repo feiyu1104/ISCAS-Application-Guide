@@ -412,6 +412,7 @@
       <a class="isc-btn isc-btn--soft" href="https://iie.cskaoyan.cn" title="iie.cskaoyan.cn" target="_blank" rel="noopener">中科院信工所报考指南 ↗</a>
       <a class="isc-btn isc-btn--soft" href="https://sict.cskaoyan.cn" title="sict.cskaoyan.cn" target="_blank" rel="noopener">中科院沈计所报考指南 ↗</a>
       <a class="isc-btn isc-btn--soft" href="https://ucas-bgi.cskaoyan.cn" title="ucas-bgi.cskaoyan.cn" target="_blank" rel="noopener">中科院人工智能学院报考指南 ↗</a>
+      <a class="isc-btn isc-btn--soft" href="https://hias.cskaoyan.cn" title="hias.cskaoyan.cn" target="_blank" rel="noopener">中科院杭高院报考指南 ↗</a>
     </div>
   </section>
 
