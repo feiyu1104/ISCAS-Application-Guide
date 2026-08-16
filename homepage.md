@@ -331,6 +331,11 @@
         <span class="isc-exp-card__title">双非一本二战上岸</span>
         <p>二战低分上岸 · 复试只问项目 · 附专硕调剂学硕解读</p>
       </a>
+      <a class="isc-exp-card" href="上岸经验分享/双非二战上岸国科大软件所/">
+        <span class="isc-tag isc-tag--sf">双非</span>
+        <span class="isc-exp-card__title">双非二战上岸</span>
+        <p>考得好不如报得巧 · 错题隔周复盘 · Zircon-like 微内核</p>
+      </a>
 
     </div>
   </section>
@@ -380,8 +385,13 @@
       <a class="isc-avatar" href="https://github.com/davepearl" title="davepearl" target="_blank" rel="noopener"><img src="https://github.com/davepearl.png?size=100" alt="davepearl" loading="lazy"></a>
       <a class="isc-avatar" href="https://github.com/feiyu1104" title="维护者" target="_blank" rel="noopener"><img src="https://github.com/feiyu1104.png?size=100" alt="维护者" loading="lazy"></a>
       <a class="isc-avatar" href="https://github.com/Seegin" title="Seegin" target="_blank" rel="noopener"><img src="https://github.com/Seegin.png?size=100" alt="Seegin" loading="lazy"></a>
+      <a class="isc-avatar" href="https://github.com/Tm-Ys" title="Tm-Ys" target="_blank" rel="noopener"><img src="https://github.com/Tm-Ys.png?size=100" alt="Tm-Ys" loading="lazy"></a>
+      <a class="isc-avatar" href="https://github.com/yancy1wang" title="yancy1wang" target="_blank" rel="noopener"><img src="https://github.com/yancy1wang.png?size=100" alt="yancy1wang" loading="lazy"></a>
+      <a class="isc-avatar" href="https://github.com/diauweb" title="Xiaodai Dai" target="_blank" rel="noopener"><img src="https://github.com/diauweb.png?size=100" alt="Xiaodai Dai" loading="lazy"></a>
+      <a class="isc-avatar" href="https://github.com/bigsaltyfishes" title="Molyuu" target="_blank" rel="noopener"><img src="https://github.com/bigsaltyfishes.png?size=100" alt="Molyuu" loading="lazy"></a>
+      <a class="isc-avatar" href="https://github.com/tig74259-arch" title="Tiga" target="_blank" rel="noopener"><img src="https://github.com/tig74259-arch.png?size=100" alt="Tiga" loading="lazy"></a>
     </div>
-    <p class="isc-thanks__note">迪迦 · 佚名同学 · Y 以及所有在备考群、小红书、知乎无私分享的同学——<br>一个人的经验是有限的，一群人的智慧是无限的。</p>
+    <p class="isc-thanks__note">佚名同学 · Y 以及所有在备考群、小红书、知乎无私分享的同学——<br>一个人的经验是有限的，一群人的智慧是无限的。</p>
   </section>
 
   <!-- ---------- 效忠 ---------- -->
@@ -410,6 +420,7 @@
     </div>
     <div class="isc-links">
       <a class="isc-btn isc-btn--soft" href="https://iie.cskaoyan.cn" title="iie.cskaoyan.cn" target="_blank" rel="noopener">中科院信工所报考指南 ↗</a>
+      <a class="isc-btn isc-btn--soft" href="https://ict.cskaoyan.cn" title="ict.cskaoyan.cn" target="_blank" rel="noopener">中科院计算所报考指南 ↗</a>
       <a class="isc-btn isc-btn--soft" href="https://sict.cskaoyan.cn" title="sict.cskaoyan.cn" target="_blank" rel="noopener">中科院沈计所报考指南 ↗</a>
       <a class="isc-btn isc-btn--soft" href="https://ucas-bgi.cskaoyan.cn" title="ucas-bgi.cskaoyan.cn" target="_blank" rel="noopener">中科院人工智能学院报考指南 ↗</a>
       <a class="isc-btn isc-btn--soft" href="https://hias.cskaoyan.cn" title="hias.cskaoyan.cn" target="_blank" rel="noopener">中科院杭高院报考指南 ↗</a>

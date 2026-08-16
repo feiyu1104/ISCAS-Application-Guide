@@ -151,6 +151,7 @@
 - [四非科班上岸国科大软件所](./上岸经验分享/四非科班上岸国科大软件所.md) — 四非科班，9 月全力开冲，英语 80+ 拉满，六级 620，推荐优质资料源和英语学习方法
 - [九本三无摆子上岸国科大软件所](./上岸经验分享/九本三无摆子上岸国科大软件所.md) — 大工摆烂选手，360+ 调剂学硕，摆子如何上岸软所？
 - [双非一本二战低分上岸国科大软件所](./上岸经验分享/双非一本二战低分上岸国科大软件所.md) — 二战低分上岸，初复试 5:5 先面试后笔试，复试只问项目、全程不歧视本科，附软所名额与专硕调剂学硕解读
+- [双非二战上岸国科大软件所](./上岸经验分享/双非二战上岸国科大软件所.md) — 双非二战专硕上岸，"考得好不如报得巧"的择校观，数学直接开强化、错题隔周复盘，408 吃书+真题，复试 Zircon-like 微内核项目
 
 > 📢 **经验分享持续征集中**，欢迎各位上岸同学[投稿](经验分享投稿模板.md)你的备考故事！
 
@@ -195,10 +196,30 @@
     <img src="https://github.com/Seegin.png?size=100" width="70" height="70" alt="Seegin" style="border-radius:50%; margin: 0 8px;"/>
   </a>
 
+  <a href="https://github.com/Tm-Ys">
+    <img src="https://github.com/Tm-Ys.png?size=100" width="70" height="70" alt="Tm-Ys" style="border-radius:50%; margin: 0 8px;"/>
+  </a>
+
+  <a href="https://github.com/yancy1wang">
+    <img src="https://github.com/yancy1wang.png?size=100" width="70" height="70" alt="yancy1wang" style="border-radius:50%; margin: 0 8px;"/>
+  </a>
+
+  <a href="https://github.com/diauweb">
+    <img src="https://github.com/diauweb.png?size=100" width="70" height="70" alt="Xiaodai Dai" style="border-radius:50%; margin: 0 8px;"/>
+  </a>
+
+  <a href="https://github.com/bigsaltyfishes">
+    <img src="https://github.com/bigsaltyfishes.png?size=100" width="70" height="70" alt="Molyuu" style="border-radius:50%; margin: 0 8px;"/>
+  </a>
+
+  <a href="https://github.com/tig74259-arch">
+    <img src="https://github.com/tig74259-arch.png?size=100" width="70" height="70" alt="Tiga" style="border-radius:50%; margin: 0 8px;"/>
+  </a>
+
 </p>
 
 <p align="center">
-<strong>迪迦</strong> · <strong>佚名同学</strong> · <strong>Y</strong>
+<strong>佚名同学</strong> · <strong>Y</strong>
 </p>
 
 > 🙏 _感谢每一位愿意花时间整理经验、回答问题的同学，你们的分享是后来者最宝贵的财富。_

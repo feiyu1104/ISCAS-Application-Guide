@@ -828,6 +828,8 @@ body {
   .isc-location__fig img { max-width: 100%; }
 }
 @media (max-width: 600px) {
+  /* 手机端：宽横插画 cover 后会裁掉两侧装饰，切换为 4:3 竖版封面图 */
+  .isc-hero__bg { background-image: url("/assets/images/hero-bg-mobile.webp"); }
   .isc-hero__title { font-size: 1.9rem; }
   .isc-stats { grid-template-columns: repeat(2, 1fr); }
   .isc-entry, .isc-feature-grid, .isc-exp-grid, .isc-figs, .isc-steps { grid-template-columns: 1fr; }

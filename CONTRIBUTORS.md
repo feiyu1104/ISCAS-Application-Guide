@@ -24,13 +24,21 @@
 
 @[davepearl](https://github.com/davepearl)
 
-@迪迦
+@[Tiga](https://github.com/tig74259-arch)
 
 @佚名同学
 
 @[feiyu1104 ](https://github.com/feiyu1104)
 
 @Y
+
+@[Tm-Ys](https://github.com/Tm-Ys)
+
+@[yancy1wang](https://github.com/yancy1wang)
+
+@[Xiaodai Dai](https://github.com/diauweb)
+
+@[Molyuu](https://github.com/bigsaltyfishes)
 
 ---
 
