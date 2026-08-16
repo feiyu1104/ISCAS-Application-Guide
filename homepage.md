@@ -32,7 +32,7 @@
           <h2 id="overview">中关村的「计算机国家队」</h2>
           <p class="isc-section__sub">中国科学院软件研究所（ISCAS）成立于 1985 年，地处北京中关村，是一所致力于计算机科学理论与软件高新技术研究的综合性研究所，覆盖计算机、软件工程、AI 大模型、系统软件、数据库、网络安全等领域。</p>
         </div>
-        <img class="isc-overview__map" src="assets/images/iscas-map.png" alt="中科院软件所（ISCAS）位置示意图" loading="lazy">
+        <img class="isc-overview__map" src="assets/images/iscas-map.webp" alt="中科院软件所（ISCAS）位置示意图" loading="lazy">
       </div>
     </div>
     <!-- ---------- 位置优势：图片 + Top 10 距离 ---------- -->
@@ -43,7 +43,7 @@
       </div>
       <div class="isc-location__card">
         <figure class="isc-location__fig">
-          <img src="assets/images/fig_location_advantage.png" alt="北京科技公司距软件所直线距离示意图" loading="lazy">
+          <img src="assets/images/fig_location_advantage.webp" alt="北京科技公司距软件所直线距离示意图" loading="lazy">
         </figure>
         <ol class="isc-location__list">
           <li class="isc-loc isc-loc--top" style="--dist: 26%">

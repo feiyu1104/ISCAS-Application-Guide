@@ -50,7 +50,7 @@
 | 9 | 搜狐 | 搜狐网络大厦 | 1.60 |
 | 10 | 微软 | 微软亚太研发集团大厦 | 2.27 |
 
-![北京科技公司距软件所直线距离 Top 10 示意图](./overrides/assets/images/fig_location_advantage.png)
+![北京科技公司距软件所直线距离 Top 10 示意图](./overrides/assets/images/fig_location_advantage.webp)
 
 > 📡 数据来源：高德地图 Web 服务 API（v5 地点搜索、地理编码），2026-08-14 实测；距离为两点间直线距离（Haversine 公式），仅供参考，非驾车/通勤距离。完整数据见 [北京科技公司距软件所直线距离](./复试准备/北京大厂距中科院软件研究所距离.md)。
 
