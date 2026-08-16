@@ -60,7 +60,7 @@
 
 - 基础软件与系统重点实验室（计算机科学国家重点实验室）
 - 并行软件与计算科学实验室
-- 可计算与信息保障实验室
+- 可信计算与信息保障实验室
 - 基础软件国家工程研究中心
 - 中文信息处理实验室
 - 软件工程技术研究开发中心
@@ -215,7 +215,7 @@
 
 ### 投稿方式
 
-1. **提交 Issue**：在仓库 [Issues 页](https://github.com/feiyu1104/ISCAS-Application-Guide/issues)提出修改建议或补充内容
+1. **提交 Issue**：在仓库 [Issues 页](https://github.com/ucas-cskaoyan-web/ISCAS-Application-Guide/issues)提出修改建议或补充内容
 2. **提交 Pull Request**：Fork 本仓库，修改后提交 PR
 3. **联系维护者**：如不熟悉 GitHub 操作，可联系当前维护者代为提交
 

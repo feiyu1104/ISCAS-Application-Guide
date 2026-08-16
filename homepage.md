@@ -137,7 +137,7 @@
     <div class="isc-labs">
       <span class="isc-chip">基础软件与系统重点实验室</span>
       <span class="isc-chip">并行软件与计算科学实验室</span>
-      <span class="isc-chip">可计算与信息保障实验室</span>
+      <span class="isc-chip">可信计算与信息保障实验室</span>
       <span class="isc-chip">基础软件国家工程研究中心</span>
       <span class="isc-chip">中文信息处理实验室</span>
       <span class="isc-chip">软件工程技术研究开发中心</span>
