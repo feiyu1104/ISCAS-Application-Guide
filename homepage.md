@@ -390,6 +390,7 @@
       <a class="isc-avatar" href="https://github.com/diauweb" title="Xiaodai Dai" target="_blank" rel="noopener"><img src="https://github.com/diauweb.png?size=100" alt="Xiaodai Dai" loading="lazy"></a>
       <a class="isc-avatar" href="https://github.com/bigsaltyfishes" title="Molyuu" target="_blank" rel="noopener"><img src="https://github.com/bigsaltyfishes.png?size=100" alt="Molyuu" loading="lazy"></a>
       <a class="isc-avatar" href="https://github.com/tig74259-arch" title="Tiga" target="_blank" rel="noopener"><img src="https://github.com/tig74259-arch.png?size=100" alt="Tiga" loading="lazy"></a>
+      <a class="isc-avatar" href="https://github.com/ShaYuLaJiao3" title="ShaYuLaJiao3" target="_blank" rel="noopener"><img src="https://github.com/ShaYuLaJiao3.png?size=100" alt="ShaYuLaJiao3" loading="lazy"></a>
     </div>
     <p class="isc-thanks__note">佚名同学 · Y 以及所有在备考群、小红书、知乎无私分享的同学——<br>一个人的经验是有限的，一群人的智慧是无限的。</p>
   </section>

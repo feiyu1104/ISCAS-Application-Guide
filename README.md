@@ -216,6 +216,10 @@
     <img src="https://github.com/tig74259-arch.png?size=100" width="70" height="70" alt="Tiga" style="border-radius:50%; margin: 0 8px;"/>
   </a>
 
+  <a href="https://github.com/ShaYuLaJiao3">
+    <img src="https://github.com/ShaYuLaJiao3.png" width="70" height="70" alt="ShaYuLaJiao3" style="border-radius:50%; margin: 0 8px;"/>
+  </a>
+
 </p>
 
 <p align="center">
