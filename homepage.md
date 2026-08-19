@@ -336,6 +336,12 @@
         <span class="isc-exp-card__title">双非二战上岸</span>
         <p>考得好不如报得巧 · 错题隔周复盘 · Zircon-like 微内核</p>
       </a>
+      <a class="isc-exp-card" href="上岸经验分享/211低rk保研国科大软件所/">
+        <span class="isc-tag isc-tag--bao">保研</span>
+        <span class="isc-tag isc-tag--211">211</span>
+        <span class="isc-exp-card__title">211 低 rk 保研上岸</span>
+        <p>夏令营流程拆解 · 竞赛科研与实验室 match · 保研干货</p>
+      </a>
 
     </div>
   </section>
@@ -391,6 +397,7 @@
       <a class="isc-avatar" href="https://github.com/bigsaltyfishes" title="Molyuu" target="_blank" rel="noopener"><img src="https://github.com/bigsaltyfishes.png?size=100" alt="Molyuu" loading="lazy"></a>
       <a class="isc-avatar" href="https://github.com/tig74259-arch" title="Tiga" target="_blank" rel="noopener"><img src="https://github.com/tig74259-arch.png?size=100" alt="Tiga" loading="lazy"></a>
       <a class="isc-avatar" href="https://github.com/ShaYuLaJiao3" title="ShaYuLaJiao3" target="_blank" rel="noopener"><img src="https://github.com/ShaYuLaJiao3.png?size=100" alt="ShaYuLaJiao3" loading="lazy"></a>
+      <a class="isc-avatar" href="https://github.com/sweetyoungthing" title="sweetYoungThing" target="_blank" rel="noopener"><img src="https://github.com/sweetyoungthing.png?size=100" alt="sweetYoungThing" loading="lazy"></a>
     </div>
     <p class="isc-thanks__note">佚名同学 以及所有在备考群、小红书、知乎无私分享的同学——<br>一个人的经验是有限的，一群人的智慧是无限的。</p>
   </section>

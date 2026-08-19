@@ -668,6 +668,14 @@ body {
   color: #fff;
 }
 .isc-tag--985 { background: #3A3149; }
+.isc-tag--211 { background: #4A3D2E; }
+.isc-tag--bao {
+  position: absolute;
+  top: 1.15rem;
+  right: 1.2rem;
+  background: #DEF0F9;
+  color: #162A46;
+}
 .isc-tag--sf  { background: #1C2228; }
 .isc-tag--sf4 { background: #2B4248; }
 .isc-tag--mb  { background: #2C3E50; }
